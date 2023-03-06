@@ -1,4 +1,4 @@
-# auth-server
+# AuthServer
 AuthServer is an application for authenticating users with a hacked client. 
 
 For support please email [support@doggohack.com](mailto:support@doggohack.com)
